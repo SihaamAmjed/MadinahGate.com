@@ -1,76 +1,11 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-/* CSS Variables */
-:root {
-  --background: 40 30% 97%;
-  --foreground: 155 20% 15%;
-
-  --card: 0 0% 100%;
-  --card-foreground: 155 20% 15%;
-
-  --popover: 0 0% 100%;
-  --popover-foreground: 155 20% 15%;
-
-  --primary: 155 40% 25%;
-  --primary-foreground: 45 30% 95%;
-
-  --secondary: 45 60% 50%;
-  --secondary-foreground: 155 40% 15%;
-
-  --muted: 40 20% 90%;
-  --muted-foreground: 155 10% 40%;
-
-  --accent: 45 40% 90%;
-  --accent-foreground: 155 40% 25%;
-
-  --destructive: 0 84.2% 60.2%;
-  --destructive-foreground: 0 0% 98%;
-
-  --border: 45 20% 85%;
-  --input: 45 20% 85%;
-  --ring: 155 40% 25%;
-
-  --radius: 0.5rem;
-}
-
-/* Dark mode */
-.dark {
-  --background: 155 45% 5%;
-  --foreground: 45 20% 90%;
-
-  --card: 155 45% 8%;
-  --card-foreground: 45 20% 90%;
-
-  --popover: 155 45% 8%;
-  --popover-foreground: 45 20% 90%;
-
-  --primary: 45 60% 50%;
-  --primary-foreground: 155 45% 5%;
-
-  --secondary: 155 30% 20%;
-  --secondary-foreground: 45 20% 90%;
-
-  --muted: 155 30% 15%;
-  --muted-foreground: 155 10% 60%;
-
-  --accent: 155 30% 15%;
-  --accent-foreground: 45 20% 90%;
-
-  --border: 155 30% 20%;
-  --input: 155 30% 20%;
-  --ring: 45 60% 50%;
-}
-
-/* Base styles */
 @layer base {
   body {
-    @apply bg-background text-foreground antialiased font-sans;
+    @apply antialiased font-sans;
   }
 
   h1, h2, h3, h4, h5, h6 {
     @apply font-serif;
   }
 }
-
