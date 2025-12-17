@@ -1,0 +1,43 @@
+{
+    "nav_home": "Home",
+    "nav_shop": "Shop",
+    "nav_contact": "Contact",
+  
+    "contact_title": "Contact Us",
+    "contact_desc": "Have a question about our products or need assistance with your order? We're here to help.",
+  
+    "form_title": "Send us a Message",
+    "form_desc": "Fill out the form below and we'll reply within 24 hours.",
+  
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+  
+    "name_placeholder": "Your Name",
+    "email_placeholder": "your.email@example.com",
+    "subject_placeholder": "Order Inquiry",
+    "message_placeholder": "How can we help you?",
+  
+    "send": "Send Message",
+  
+    "toast_success_title": "Message Sent",
+    "toast_success_desc": "We'll get back to you as soon as possible.",
+  
+    "contact_info": "Contact Information",
+    "location": "Our Location",
+    "location_address": "King Fahd Road, Al-Madinah Al-Munawwarah, Saudi Arabia",
+  
+    "phone": "Phone Number",
+    "phone_value": "+966 50 123 4567\nMon-Sat, 9am - 9pm",
+  
+    "email_address": "Email Address",
+    "email_value": "info@madinahgate.com\nsupport@madinahgate.com",
+  
+    "working_hours": "Working Hours",
+    "working_hours_value": "Saturday - Thursday: 9:00 AM - 10:00 PM\nFriday: 4:00 PM - 11:00 PM",
+  
+    "visit_showroom": "Visit Our Showroom",
+    "visit_showroom_desc": "Experience the luxury firsthand. Visit our flagship store in Madinah for an exclusive tasting session."
+  }
+  

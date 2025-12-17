@@ -1,0 +1,43 @@
+{
+    "nav_home": "الرئيسية",
+    "nav_shop": "المتجر",
+    "nav_contact": "اتصل بنا",
+  
+    "contact_title": "تواصل معنا",
+    "contact_desc": "هل لديك سؤال عن منتجاتنا أو تحتاج إلى مساعدة في طلبك؟ نحن هنا لمساعدتك.",
+  
+    "form_title": "أرسل لنا رسالة",
+    "form_desc": "املأ النموذج أدناه وسنرد عليك خلال 24 ساعة.",
+  
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "subject": "الموضوع",
+    "message": "الرسالة",
+  
+    "name_placeholder": "اسمك",
+    "email_placeholder": "example@email.com",
+    "subject_placeholder": "استفسار عن الطلب",
+    "message_placeholder": "كيف يمكننا مساعدتك؟",
+  
+    "send": "إرسال",
+  
+    "toast_success_title": "تم إرسال الرسالة",
+    "toast_success_desc": "سنعود إليك في أقرب وقت ممكن.",
+  
+    "contact_info": "معلومات التواصل",
+    "location": "موقعنا",
+    "location_address": "طريق الملك فهد، المدينة المنورة، المملكة العربية السعودية",
+  
+    "phone": "رقم الهاتف",
+    "phone_value": "+966 50 123 4567\nالسبت - الخميس، 9 صباحًا - 9 مساءً",
+  
+    "email_address": "البريد الإلكتروني",
+    "email_value": "info@madinahgate.com\nsupport@madinahgate.com",
+  
+    "working_hours": "ساعات العمل",
+    "working_hours_value": "السبت - الخميس: 9:00 ص - 10:00 م\nالجمعة: 4:00 م - 11:00 م",
+  
+    "visit_showroom": "زوروا معرضنا",
+    "visit_showroom_desc": "اختبروا الفخامة عن قرب. زوروا متجرنا الرئيسي في المدينة المنورة لجلسة تذوق حصرية."
+  }
+  
